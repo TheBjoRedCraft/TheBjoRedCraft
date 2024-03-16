@@ -1,8 +1,3 @@
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TheBjoRedCraft&custom_title=Wakatime%20Statistics&line_height=20&layout=compact&langs_count=8&bg_color=00000000&text_color=b2b2b2&title_color=b2b2b2&hide=other&border_radius=2&disable_animations=true" alt="Wakatime Statistics" width="450">
 
-- 💻 Java - Minecraft Plugins
-- 📫 Discord: TheBjoRedCraft
-
-<!---
-TheBjoRedCraft/TheBjoRedCraft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://github-readme-stats.vercel.app/api?username=TheBjoRedCraft&show_icons=true&custom_title=GitHub%20Statistics&include_all_commits=true&count_private=true&bg_color=00000000&text_color=b2b2b2&title_color=b2b2b2&line_height=20&text_bold=false&hide_rank=true&border_radius=2&card_width=450" alt="GitHub Statistics" width="450">
