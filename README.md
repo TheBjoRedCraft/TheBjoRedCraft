@@ -6,4 +6,4 @@
 
 <h3>Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,github,gradle,maven,idea,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,github,gitlab,gradle,maven,idea,vscode&theme=dark)](https://skillicons.dev)
