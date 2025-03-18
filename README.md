@@ -1,7 +1,7 @@
 # 🧑‍💻 A Developer 
 <h3>GitHub Stats</h3>
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=TheBjoRedCraft)](https://github.com/TheBjoRedCraft)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=TheBjoRedCraft&theme=tokyonight)](https://github.com/TheBjoRedCraft)
 
 [![](https://nirzak-streak-stats.vercel.app/?user=thebjoredcraft&theme=tokyonight)](https://github.com/thebjoredcraft)
 
