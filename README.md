@@ -1,6 +1,6 @@
 # 🧑‍💻 A Developer 
 
-<h3>Skills</h3>
+<h3>Skills</h3> 
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,github,gitlab,gradle,maven,idea,vscode,md&theme=dark)](https://skillicons.dev)
 
