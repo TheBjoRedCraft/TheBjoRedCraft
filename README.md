@@ -1,4 +1,4 @@
-# 🧑‍💻 A Developer     
+# 🧑‍💻 A Developer      
 
 <h3>Skills</h3> 
 
