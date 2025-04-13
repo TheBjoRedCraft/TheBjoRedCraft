@@ -1,5 +1,3 @@
-# 🧑‍💻 A Developer
-
 **Java & Kotlin Developer from Germany.**
 
 
