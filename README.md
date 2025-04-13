@@ -5,6 +5,6 @@
 
 ---
 
-[![](https://nirzak-streak-stats.vercel.app/?user=thebjoredcraft&theme=tokyonight)](https://github.com/thebjoredcraft)<br>
+[![](https://github-readme-stats.vercel.app/api?username=thebjoredcraft&theme=tokyonight)](https://github.com/thebjoredcraft)<br>
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=TheBjoRedCraft&theme=tokyonight&layout=compact&langs_count=10&hide_title=true)](https://github.com/TheBjoRedCraft)
 
