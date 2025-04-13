@@ -1,4 +1,5 @@
-**Java & Kotlin Developer from Germany.**
+<h2>Java & Kotlin Developer from Germany.<br><br>
+
 
 
 [![Skills](https://skillicons.dev/icons?i=java,kotlin,github,gitlab,gradle,maven,idea,vscode,md&theme=dark)](https://skillicons.dev)
