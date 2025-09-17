@@ -7,3 +7,4 @@
 ---
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=TheBjoRedCraft&theme=tokyonight&layout=compact&langs_count=10&hide_title=true)](https://github.com/TheBjoRedCraft)
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=TheBjoRedCraft&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/thebjoredcraft)
