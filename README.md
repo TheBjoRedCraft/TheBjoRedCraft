@@ -1,12 +1,9 @@
 # 👋 Hi, I'm TheBjoRedCraft  
 
-Welcome to my GitHub profile! 🚀  
-
----
-
-## 📊 GitHub Overview  
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=TheBjoRedCraft&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/TheBjoRedCraft)
+<div align="center">
+ <a href="https://github.com/thebjoredcraft?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=thebjoredcraft&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@thebjoredcraft's github-readme-stats"/></a>
+ <a href="https://github.com/thebjoredcraft?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=thebjoredcraft&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="thebjoredcraft's github-readme-streak-stats"/></a>
+</div>
 
 ---
 
